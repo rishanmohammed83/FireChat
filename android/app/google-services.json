@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847644564254",
+    "firebase_url": "https://vchat-dcd2b.firebaseio.com",
+    "project_id": "vchat-dcd2b",
+    "storage_bucket": "vchat-dcd2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847644564254:android:e4c2347a41b8b7cf0b470f",
+        "android_client_info": {
+          "package_name": "com.example.Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847644564254-lk9r0fn4fq0o5j72b2c9sq5o31onl7rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTVPxyiO4221qaVTBtL2qM2cVVBuby_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847644564254-lk9r0fn4fq0o5j72b2c9sq5o31onl7rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
